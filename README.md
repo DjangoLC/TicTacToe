@@ -15,13 +15,13 @@ The game's logic is built on a flexible array structure, accommodating different
 The design inspiration comes from a [figma template](https://www.figma.com/community/file/893942075601804557), with all rights attributed to the original designer. Please note, this app is purely for educational purposes and is not intended for commercial release.
 
 ## Screenshots
-| 2x2 | 3x3 |
-|--|--|
-|  ![map](ss/2x2.png)| ![map](ss/3x3InGame.png) |
+|demo | 3x3 | 2x2 |
+|--|--|--|
+|  ![](https://github.com/DjangoLC/TicTacToe/blob/main/ss/vide_demo.gif)| ![map](ss/3x3InGame.png) | ![map](ss/2x2.png) |
 ## Screenshots
-| 4x4 | winner |
-|--|--|
-|  ![map](ss/4x4InGame.png)| ![map](ss/winner.png) |
+| 4x4 | winner | splash |
+|--|--|--|
+|  ![map](ss/4x4InGame.png)| ![map](ss/winner.png) |  ![map](ss/splash.png) |
 
 ## Requirements
 - Android SDK
